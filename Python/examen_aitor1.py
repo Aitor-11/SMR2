@@ -1,6 +1,6 @@
 #factorial de los numeros que hay en la lista 
 # factorial de varios números
-num = int(input("dime un numero : "))
+num = int(input("dime un numero: "))
 num2 = int(input("dime otro numero : "))
 num3 = int(input("dime otro numero mas: "))
 num4 = int(input("dime otro numero mas: "))
