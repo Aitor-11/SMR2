@@ -20,7 +20,6 @@ for n in numeros:
     print(f"El factorial de {n} es {fact}")
 
 print(f"Los números son: {numeros}")
-print(f"Sus factoriales son: {factoriales}")
 
 
 '''
