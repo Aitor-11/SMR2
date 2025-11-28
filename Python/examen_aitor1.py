@@ -3,7 +3,8 @@
 num = int(input("dime un numero : "))
 num2 = int(input("dime otro numero : "))
 num3 = int(input("dime otro numero mas: "))
-
+num4 = int(input("dime otro numero mas: "))
+num5 = int(input("dime otro numero mas: "))
 def factorial(n):
     f = 1
     for i in range(1, n + 1):
